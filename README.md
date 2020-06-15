@@ -4,4 +4,4 @@ Exerercice fait par Resa Quinta le 15/06/2020 qui consiste à faire passer un do
 
 [Fichier](https://github.com/ResDev27/exercise-markdown/blob/master/markdown.md) en Markdown 
 
-[Fichier en HTML]()
+[Fichier en HTML](./index.html)
